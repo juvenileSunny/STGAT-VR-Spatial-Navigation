@@ -1,3 +1,9 @@
+# Trying to recreate similar dataset from the  "STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction" 
+Original Repo
+https://github.com/huang-xx/STGAT
+
+
+
 # STGAT
 STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
 
