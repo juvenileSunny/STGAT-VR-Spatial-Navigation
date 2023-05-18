@@ -1,7 +1,8 @@
 import argparse
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+#os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 import torch
 import matplotlib.pyplot as plt
 import numpy as np
